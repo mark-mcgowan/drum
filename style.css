@@ -4,7 +4,7 @@ html, body {
   left: 0;
   margin: 0;
   background-image: url("oldroland.jpeg");
-  background-size:99%;
+  background-size:100%;
   background-repeat: no-repeat;
 
 }
@@ -20,87 +20,75 @@ html, body {
 }
  
 .box {
-  width: 20px;
-  height: 20px;
-  margin: 10px 0;
-  background-color: rgb(87, 81, 81);
+ 
   display: flex;
   justify-content: center;
   align-items: center;
   font-size: 20px;
-  color: rgba(221, 217, 217, 0.74);
+  color: rgba(39, 37, 37, 0.74);
   user-select: none;
   
 }
 .pad-1{
-  border: 1px solid #37a2e9;
   position: absolute;
 	width: 50px;
 	height: 50px;
 	left: 250px;
-	bottom: 40px;
+	bottom: 100px;
 
 } .pad-2{
-  border: 1px solid #37a2e9;
   position: absolute;
 	width: 50px;
 	height: 50px;
-	left: 310px;
-	bottom: 40px;
+	left: 315px;
+	bottom: 100px;
 }
-.pad-3 { 
-  border: 1px solid #37a2e9; 
+.pad-3 {  
   position: absolute;
 	width: 50px;
 	height: 50px;
-	left: 375px;
-	bottom: 40px;
+	left: 380px;
+	bottom: 100px;
 }
 .pad-4 {
-  border: 1px solid #37a2e9;
   position: absolute;
 	width: 50px;
 	height: 50px;
 	left: 440px;
-	bottom: 40px;
+	bottom: 100px;
 } 
 .pad-5 {
-  border: 1px solid #37a2e9;
   position: absolute;
 	width: 50px;
 	height: 50px;
-	left: 500px;
-	bottom: 40px;
+	left: 505px;
+	bottom: 100px;
 } 
 .pad-6 { 
-  border: 1px solid #61b98d;
   position: absolute;
 	width: 50px;
 	height: 50px;
-	left: 565px;
-	bottom: 40px;
+	left: 570px;
+	bottom: 100px;
 }
 .pad-7{
-  border: 1px solid #37a2e9;
   position: absolute;
 	width: 50px;
 	height: 50px;
-	left: 630px;
-	bottom: 40px;
+	left: 635px;
+	bottom: 100px;
 }
 .pad-8{
-  border: 1px solid #37a2e9;
   position: absolute;
 	width: 50px;
 	height: 50px;
-	left: 690px;
-	bottom: 40px;
+	left: 700px;
+	bottom: 100px;
 }  
 .pad-9 { 
-  border: 1px solid #6544b1;
   position: absolute;
 	width: 50px;
 	height: 50px;
-	left: 755px;
-	bottom: 40px;
+	left: 765px;
+	bottom: 100px;
 }
